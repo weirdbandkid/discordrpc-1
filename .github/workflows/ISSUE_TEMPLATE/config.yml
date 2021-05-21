@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links: 
+  - name: Discord
+    url: https://discord.gg/46HQ9rJ
+    about: Join the Discord
+  - name: Docs
+    url: https://docs.weirdbandkid.games
+    about: View the Docs before making an issue 
