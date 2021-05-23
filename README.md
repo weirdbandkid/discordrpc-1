@@ -1,9 +1,6 @@
-# This repo has been moved [here](https://ptb.discord.com/api/webhooks/825440459751948378/jP1zLxNSEexJemg_SQ3c85kZmBbT-aTWiBWumQh5yeVeosS1DYHyKyBto1Z1UwNpyLN1/github)
-
-
 ## Build Info
-[![Testing Release](https://github.com/weirdbandkid/discordrpc/actions/workflows/release_testing.yml/badge.svg)](https://github.com/weirdbandkid/discordrpc/actions/workflows/release_testing.yml)
-[![Main Release](https://github.com/weirdbandkid/discordrpc/actions/workflows/release_main.yml/badge.svg)](https://github.com/weirdbandkid/discordrpc/actions/workflows/release_main.yml)
+[![Testing Release](https://github.com/weirdbandkid/discordrpc/actions/workflows/release_testing.yml/badge.svg)](https://github.com/weirdbandkid-games/discordrpc/actions/workflows/release_testing.yml)
+[![Main Release](https://github.com/weirdbandkid/discordrpc/actions/workflows/release_main.yml/badge.svg)](https://github.com/weirdbandkid-games/discordrpc/actions/workflows/release_main.yml)
 
 ## Code Review (on main)
 ![Code Quality](https://www.code-inspector.com/project/22490/score/svg)
@@ -11,13 +8,13 @@
 
 
 ## Preview
-![Preview](https://www.weirdbandkid.tk/img/rpc.PNG)
+![Preview](https://www.weirdbandkid.games/img/rpc.PNG)
 ## Installation
-`git clone https://github.com/weirdbandkid/discordrpc.git`
+`git clone https://github.com/weirdbandkid-games/discordrpc.git`
 
 `cd discordrpc`
 
-***I suggest that you change the ID, images, and text in the `index.js` file***
+**Note:** *you will have to change the settings in `index.js` before you start the script*
 
 `node .`
 
