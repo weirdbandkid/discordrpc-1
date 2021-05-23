@@ -1,6 +1,6 @@
 ## Build Info
-[![Testing Release](https://github.com/weirdbandkid/discordrpc/actions/workflows/release_testing.yml/badge.svg)](https://github.com/weirdbandkid-games/discordrpc/actions/workflows/release_testing.yml)
-[![Main Release](https://github.com/weirdbandkid/discordrpc/actions/workflows/release_main.yml/badge.svg)](https://github.com/weirdbandkid-games/discordrpc/actions/workflows/release_main.yml)
+[![Testing Release](https://github.com/weirdbandkid-games/discordrpc/actions/workflows/release_testing.yml/badge.svg)](https://github.com/weirdbandkid-games/discordrpc/actions/workflows/release_testing.yml)
+[![Main Release](https://github.com/weirdbandkid-games/discordrpc/actions/workflows/release_main.yml/badge.svg)](https://github.com/weirdbandkid-games/discordrpc/actions/workflows/release_main.yml)
 
 ## Code Review (on main)
 ![Code Quality](https://www.code-inspector.com/project/22490/score/svg)
